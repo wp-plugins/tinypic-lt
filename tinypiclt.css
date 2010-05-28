@@ -1,0 +1,21 @@
+/* Style: TinyPic LT WordPress Plugin 1.0 @ WordPress 2.9.2
+ * Author: Jati WYW
+ * Author URI: htpp://limitedtemplates.com
+ * Copyright (c) 2010 Jati WYW
+ */
+
+ul.utt_bagian{font-size:11px; margin-top:5px; overflow:hidden; width:480px; font-weight:bold; color:#444444;}
+ul.utt_bagian li{margin:5px 0px 5px 30px; font-weight:normal; color:#333333; }
+.utt_desc{color:#888888; font-size:10px; text-shadow:none !important; }
+.utt_notes{width:510px;}
+.utt_border{width:510px; border-bottom:1px solid #f0f0f0; border-top:1px solid #f0f0f0; clear:both; height:4px; margin:10px 0px 10px 0px;}
+.utt_iframe_preview{width:260px; height:510px; display:block; float:right; overflow:hidden; background:#f9f9f9 url(../../../wp-admin/images/loading.gif) center center no-repeat;}
+.utt_live_preview_title{float:right; margin-right:85px; font-size:12px; text-shadow:2px 2px 2px #fff; font-weight:bold;}
+.utt_customize_title{font-size:12px; text-shadow:2px 2px 2px #fff; font-weight:bold;}
+.utt_tombol_wrap{width:99.8%; margin:12px 0px 40px 0px; border:1px solid #dfdfdf; background:#fff; overflow:hidden;}
+.utt_tombol_wrap p.kiri{float:left; margin:7px 0px 7px 70px;}
+.utt_tombol_wrap p.knn{float:right; margin:7px 70px 7px 0px;}
+.utt_author{float:right; font-size:11px; color:#ccc; font-style:italic;} 
+.utt_author a, .utt_author a:visited{color:#ccc;text-decoration:none;}
+.utt_author a:hover{text-decoration:underline;}
+.utt_textarea{font-size:10px; color:#555555; border:1px solid #ccc; background:#ebebe4;}
